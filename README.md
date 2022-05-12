@@ -8,6 +8,7 @@ libraries : NvidiaDocker-master/requirements.txt
 
 ## Setup
 This can use docker.  
+See NvidiaDocker-master/Readme.md
 
 ## License
 This software is released under the MIT License, see LICENSE.
