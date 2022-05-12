@@ -1,5 +1,6 @@
 # retinal_vessel_segmentation
-<img width="1120" alt="pu_learning" src="https://user-images.githubusercontent.com/81740811/168010155-a9a1bb29-a22d-494b-8ceb-a7eee9f76574.png">
+<img width="1121" alt="スクリーンショット 2022-05-12 19 48 03" src="https://user-images.githubusercontent.com/81740811/168055985-816519cb-f3da-4bf9-a0ac-12196718b9f1.png">
+
 ## Dependency
 ・execution environment  
 ubuntu20.04  
