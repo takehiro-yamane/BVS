@@ -15,6 +15,14 @@ See NvidiaDocker-master/Readme.md
 This software is released under the MIT License, see LICENSE.
 
 ## References
+O. Ronneberger et al., “U-net: Convolutional networks for biomedical image
+segmentation,” Lecture Notes in Computer Science (including subseries Lecture
+Notes in Artiﬁcial Intelligence and Lecture Notes in Bioinformatics), vol. 9351,
+pp. 234–241, 2015.  
+  
+R. Kiryo et al., “Positive-unlabeled learning with non-negative risk estimator,”
+arXiv preprint arXiv:1703.00593, 2017.  
+
 
 ## Notes
 No data sets are included.   
