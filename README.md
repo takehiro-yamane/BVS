@@ -1,4 +1,4 @@
-# retinal_vessel_segmentation
+# 血管のセグメンテーション
 <img width="1121" alt="スクリーンショット 2022-05-12 19 48 03" src="https://user-images.githubusercontent.com/81740811/168055985-816519cb-f3da-4bf9-a0ac-12196718b9f1.png">
 
 ## Dependency
