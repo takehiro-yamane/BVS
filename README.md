@@ -1,6 +1,10 @@
 # 血管のセグメンテーション
 <img width="1121" alt="スクリーンショット 2022-05-12 19 48 03" src="https://user-images.githubusercontent.com/81740811/168055985-816519cb-f3da-4bf9-a0ac-12196718b9f1.png">
 
+## Prediction results example (CHASE DB1)
+<img width="590" alt="predict_retina_image" src="https://user-images.githubusercontent.com/81740811/169279986-9974e448-e919-4fa1-8a64-8d811f040fe1.png">
+
+
 ## Dependency
 ・execution environment  
 ubuntu20.04  
